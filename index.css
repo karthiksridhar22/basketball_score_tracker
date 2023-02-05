@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center;
+}
+
+
+
+.container {
+    color: white;
+    left: 85;
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+    text-align: center;
+}
+
+.score {
+color: #F94F6D;
+background: black;
+width: 155px;
+font-size: 90px;
+left:82px;
+padding: 10px;
+margin: 20px;
+}
